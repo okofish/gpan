@@ -139,7 +139,7 @@ var getPanoramaZoom = function(zoom) {
 			return {zoom:zoom,x:3,y:1}
 			break;
 		case 3:
-			return {zoom:zoom,x:6,y:3}
+			return {zoom:zoom,x:5,y:2}
 			break;
 		case 4:
 			return {zoom:zoom,x:12,y:6}
